@@ -1,0 +1,5 @@
+.vscode
+.venv
+.claude
+etl_casino.log
+datos_entrada/casino_transacciones.csv
